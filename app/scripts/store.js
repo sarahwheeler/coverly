@@ -1,0 +1,1 @@
+Coverly.ApplicationAdapter = DS.FixtureAdapter;
